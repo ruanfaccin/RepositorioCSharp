@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExAulaVetorSemRepeticao", "ExAulaVetorSemRepeticao\ExAulaVetorSemRepeticao.csproj", "{00DD8634-24AC-434D-8CB2-C9598DA3E8E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DD8634-24AC-434D-8CB2-C9598DA3E8E6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{00DD8634-24AC-434D-8CB2-C9598DA3E8E6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{00DD8634-24AC-434D-8CB2-C9598DA3E8E6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{00DD8634-24AC-434D-8CB2-C9598DA3E8E6}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11DF1989-09A2-4B89-864D-FD9E30299717}
+	EndGlobalSection
+EndGlobal

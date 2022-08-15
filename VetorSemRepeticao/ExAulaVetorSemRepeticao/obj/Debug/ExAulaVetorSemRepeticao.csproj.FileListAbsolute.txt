@@ -1,0 +1,6 @@
+/Users/ruanfaccin/Desktop/Projects/ExAulaVetorSemRepeticao/ExAulaVetorSemRepeticao/bin/Debug/ExAulaVetorSemRepeticao.exe
+/Users/ruanfaccin/Desktop/Projects/ExAulaVetorSemRepeticao/ExAulaVetorSemRepeticao/bin/Debug/ExAulaVetorSemRepeticao.pdb
+/Users/ruanfaccin/Desktop/Projects/ExAulaVetorSemRepeticao/ExAulaVetorSemRepeticao/obj/Debug/ExAulaVetorSemRepeticao.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Desktop/Projects/ExAulaVetorSemRepeticao/ExAulaVetorSemRepeticao/obj/Debug/ExAulaVetorSemRepeticao.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Desktop/Projects/ExAulaVetorSemRepeticao/ExAulaVetorSemRepeticao/obj/Debug/ExAulaVetorSemRepeticao.exe
+/Users/ruanfaccin/Desktop/Projects/ExAulaVetorSemRepeticao/ExAulaVetorSemRepeticao/obj/Debug/ExAulaVetorSemRepeticao.pdb

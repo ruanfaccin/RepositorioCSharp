@@ -1,0 +1,6 @@
+/Users/ruanfaccin/Projects/ExCurso2While/ExCurso2While/bin/Debug/ExCurso2While.exe
+/Users/ruanfaccin/Projects/ExCurso2While/ExCurso2While/bin/Debug/ExCurso2While.pdb
+/Users/ruanfaccin/Projects/ExCurso2While/ExCurso2While/obj/Debug/ExCurso2While.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Projects/ExCurso2While/ExCurso2While/obj/Debug/ExCurso2While.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Projects/ExCurso2While/ExCurso2While/obj/Debug/ExCurso2While.exe
+/Users/ruanfaccin/Projects/ExCurso2While/ExCurso2While/obj/Debug/ExCurso2While.pdb
