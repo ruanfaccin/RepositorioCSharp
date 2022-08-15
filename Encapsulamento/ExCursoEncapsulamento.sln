@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExCursoEncapsulamento", "ExCursoEncapsulamento\ExCursoEncapsulamento.csproj", "{B05D8FB8-A968-47A6-A96D-6FFBA3A50A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05D8FB8-A968-47A6-A96D-6FFBA3A50A87}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B05D8FB8-A968-47A6-A96D-6FFBA3A50A87}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B05D8FB8-A968-47A6-A96D-6FFBA3A50A87}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B05D8FB8-A968-47A6-A96D-6FFBA3A50A87}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BC59427-D80B-40F1-8AC0-1F2F5028E889}
+	EndGlobalSection
+EndGlobal

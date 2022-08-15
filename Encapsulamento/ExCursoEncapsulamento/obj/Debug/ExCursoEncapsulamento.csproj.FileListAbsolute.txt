@@ -1,0 +1,12 @@
+/Users/ruanfaccin/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/obj/Debug/ExCursoEncapsulamento.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/obj/Debug/ExCursoEncapsulamento.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/bin/Debug/ExCursoEncapsulamento.exe
+/Users/ruanfaccin/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/bin/Debug/ExCursoEncapsulamento.pdb
+/Users/ruanfaccin/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/obj/Debug/ExCursoEncapsulamento.exe
+/Users/ruanfaccin/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/obj/Debug/ExCursoEncapsulamento.pdb
+/Users/ruanfaccin/Desktop/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/bin/Debug/ExCursoEncapsulamento.exe
+/Users/ruanfaccin/Desktop/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/bin/Debug/ExCursoEncapsulamento.pdb
+/Users/ruanfaccin/Desktop/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/obj/Debug/ExCursoEncapsulamento.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Desktop/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/obj/Debug/ExCursoEncapsulamento.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Desktop/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/obj/Debug/ExCursoEncapsulamento.exe
+/Users/ruanfaccin/Desktop/Projects/ExCursoEncapsulamento/ExCursoEncapsulamento/obj/Debug/ExCursoEncapsulamento.pdb
