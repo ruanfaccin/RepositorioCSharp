@@ -1,0 +1,6 @@
+/Users/ruanfaccin/Desktop/Projects/Ex2MatrizAula/Ex2MatrizAula/bin/Debug/Ex2MatrizAula.exe
+/Users/ruanfaccin/Desktop/Projects/Ex2MatrizAula/Ex2MatrizAula/bin/Debug/Ex2MatrizAula.pdb
+/Users/ruanfaccin/Desktop/Projects/Ex2MatrizAula/Ex2MatrizAula/obj/Debug/Ex2MatrizAula.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Desktop/Projects/Ex2MatrizAula/Ex2MatrizAula/obj/Debug/Ex2MatrizAula.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Desktop/Projects/Ex2MatrizAula/Ex2MatrizAula/obj/Debug/Ex2MatrizAula.exe
+/Users/ruanfaccin/Desktop/Projects/Ex2MatrizAula/Ex2MatrizAula/obj/Debug/Ex2MatrizAula.pdb

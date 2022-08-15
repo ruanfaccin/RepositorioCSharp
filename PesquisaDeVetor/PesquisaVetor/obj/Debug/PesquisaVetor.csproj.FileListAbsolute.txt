@@ -1,0 +1,6 @@
+/Users/ruanfaccin/Desktop/Projects/PesquisaVetor/PesquisaVetor/bin/Debug/PesquisaVetor.exe
+/Users/ruanfaccin/Desktop/Projects/PesquisaVetor/PesquisaVetor/bin/Debug/PesquisaVetor.pdb
+/Users/ruanfaccin/Desktop/Projects/PesquisaVetor/PesquisaVetor/obj/Debug/PesquisaVetor.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Desktop/Projects/PesquisaVetor/PesquisaVetor/obj/Debug/PesquisaVetor.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Desktop/Projects/PesquisaVetor/PesquisaVetor/obj/Debug/PesquisaVetor.exe
+/Users/ruanfaccin/Desktop/Projects/PesquisaVetor/PesquisaVetor/obj/Debug/PesquisaVetor.pdb

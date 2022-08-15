@@ -1,0 +1,12 @@
+/Users/ruanfaccin/Projects/ExCursoVetor/ExCursoVetor/bin/Debug/ExCursoVetor.exe
+/Users/ruanfaccin/Projects/ExCursoVetor/ExCursoVetor/bin/Debug/ExCursoVetor.pdb
+/Users/ruanfaccin/Projects/ExCursoVetor/ExCursoVetor/obj/Debug/ExCursoVetor.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Projects/ExCursoVetor/ExCursoVetor/obj/Debug/ExCursoVetor.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Projects/ExCursoVetor/ExCursoVetor/obj/Debug/ExCursoVetor.exe
+/Users/ruanfaccin/Projects/ExCursoVetor/ExCursoVetor/obj/Debug/ExCursoVetor.pdb
+/Users/ruanfaccin/Desktop/Projects/ExCursoVetor/ExCursoVetor/bin/Debug/ExCursoVetor.exe
+/Users/ruanfaccin/Desktop/Projects/ExCursoVetor/ExCursoVetor/bin/Debug/ExCursoVetor.pdb
+/Users/ruanfaccin/Desktop/Projects/ExCursoVetor/ExCursoVetor/obj/Debug/ExCursoVetor.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Desktop/Projects/ExCursoVetor/ExCursoVetor/obj/Debug/ExCursoVetor.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Desktop/Projects/ExCursoVetor/ExCursoVetor/obj/Debug/ExCursoVetor.exe
+/Users/ruanfaccin/Desktop/Projects/ExCursoVetor/ExCursoVetor/obj/Debug/ExCursoVetor.pdb

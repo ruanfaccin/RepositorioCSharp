@@ -1,0 +1,6 @@
+/Users/ruanfaccin/Projects/ExCurso1MetodosClasse/ExCurso1MetodosClasse/bin/Debug/ExCurso1MetodosClasse.exe
+/Users/ruanfaccin/Projects/ExCurso1MetodosClasse/ExCurso1MetodosClasse/bin/Debug/ExCurso1MetodosClasse.pdb
+/Users/ruanfaccin/Projects/ExCurso1MetodosClasse/ExCurso1MetodosClasse/obj/Debug/ExCurso1MetodosClasse.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Projects/ExCurso1MetodosClasse/ExCurso1MetodosClasse/obj/Debug/ExCurso1MetodosClasse.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Projects/ExCurso1MetodosClasse/ExCurso1MetodosClasse/obj/Debug/ExCurso1MetodosClasse.exe
+/Users/ruanfaccin/Projects/ExCurso1MetodosClasse/ExCurso1MetodosClasse/obj/Debug/ExCurso1MetodosClasse.pdb

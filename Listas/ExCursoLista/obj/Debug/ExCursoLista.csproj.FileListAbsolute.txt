@@ -1,0 +1,6 @@
+/Users/ruanfaccin/Desktop/Projects/ExCursoLista/ExCursoLista/bin/Debug/ExCursoLista.exe
+/Users/ruanfaccin/Desktop/Projects/ExCursoLista/ExCursoLista/bin/Debug/ExCursoLista.pdb
+/Users/ruanfaccin/Desktop/Projects/ExCursoLista/ExCursoLista/obj/Debug/ExCursoLista.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Desktop/Projects/ExCursoLista/ExCursoLista/obj/Debug/ExCursoLista.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Desktop/Projects/ExCursoLista/ExCursoLista/obj/Debug/ExCursoLista.exe
+/Users/ruanfaccin/Desktop/Projects/ExCursoLista/ExCursoLista/obj/Debug/ExCursoLista.pdb

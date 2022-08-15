@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExCursoVetor", "ExCursoVetor\ExCursoVetor.csproj", "{5C89D5ED-5189-4BB2-87E1-8419B28006DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C89D5ED-5189-4BB2-87E1-8419B28006DF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5C89D5ED-5189-4BB2-87E1-8419B28006DF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5C89D5ED-5189-4BB2-87E1-8419B28006DF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5C89D5ED-5189-4BB2-87E1-8419B28006DF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C666A7BE-9229-4EA3-99DA-86C997765297}
+	EndGlobalSection
+EndGlobal

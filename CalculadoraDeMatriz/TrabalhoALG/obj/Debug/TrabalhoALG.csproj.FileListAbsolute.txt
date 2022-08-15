@@ -1,0 +1,6 @@
+/Users/ruanfaccin/Desktop/Projects/TrabalhoALG/TrabalhoALG/bin/Debug/TrabalhoALG.exe
+/Users/ruanfaccin/Desktop/Projects/TrabalhoALG/TrabalhoALG/bin/Debug/TrabalhoALG.pdb
+/Users/ruanfaccin/Desktop/Projects/TrabalhoALG/TrabalhoALG/obj/Debug/TrabalhoALG.csproj.AssemblyReference.cache
+/Users/ruanfaccin/Desktop/Projects/TrabalhoALG/TrabalhoALG/obj/Debug/TrabalhoALG.csproj.CoreCompileInputs.cache
+/Users/ruanfaccin/Desktop/Projects/TrabalhoALG/TrabalhoALG/obj/Debug/TrabalhoALG.exe
+/Users/ruanfaccin/Desktop/Projects/TrabalhoALG/TrabalhoALG/obj/Debug/TrabalhoALG.pdb

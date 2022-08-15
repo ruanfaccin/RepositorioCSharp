@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesquisaVetor", "PesquisaVetor\PesquisaVetor.csproj", "{51D1EC70-5957-42CA-8A7B-F8085FF3FA19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51D1EC70-5957-42CA-8A7B-F8085FF3FA19}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{51D1EC70-5957-42CA-8A7B-F8085FF3FA19}.Debug|anycpu.Build.0 = Debug|anycpu
+		{51D1EC70-5957-42CA-8A7B-F8085FF3FA19}.Release|anycpu.ActiveCfg = Release|anycpu
+		{51D1EC70-5957-42CA-8A7B-F8085FF3FA19}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27BFB651-6F07-4C78-944D-656F558AAD19}
+	EndGlobalSection
+EndGlobal
